@@ -1,4 +1,4 @@
-package io.linzhehuang.bunnyshare.util.nodeinfo;
+package io.linzhehuang.bunnyshare.utils.nodeinfo;
 
 @FunctionalInterface
 public interface ReceiveNodeInfoHandler {

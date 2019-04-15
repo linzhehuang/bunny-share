@@ -1,9 +1,10 @@
-package io.linzhehuang.bunnyshare.util.nodeinfo;
+package io.linzhehuang.bunnyshare.utils.nodeinfo;
 
 import static org.junit.Assert.assertArrayEquals;
 import static org.junit.Assert.assertEquals;
 
 import org.junit.Test;
+
 
 public class NodeInfoTests {
 	private static final String IPV4 = "127.255.0.1";

@@ -1,4 +1,4 @@
-package io.linzhehuang.bunnyshare.util.nodeinfo;
+package io.linzhehuang.bunnyshare.utils.nodeinfo;
 
 import java.io.IOException;
 import java.net.DatagramPacket;
