@@ -22,4 +22,9 @@ public class FileServicesTests {
 		fileService.saveFile("/test.txt",
 				new ByteArrayInputStream("DEMO\n".getBytes()));
 	}
+	
+	@Test
+	public void sendFileTest() {
+		System.out.println(fileService.sendFile("/a.txt", "/tmp/test.txt"));
+	}
 }
